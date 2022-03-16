@@ -1,0 +1,58 @@
+body{
+    background-color: #18191a;
+    color: white;
+}
+
+#nav {
+height: 58px;
+background-color: #242526;
+margin-bottom: 74px;
+}
+#nav p{
+    font-size: 23px;
+    font-weight: bold;
+}
+
+#option-bar{
+height: 74px;
+background-color: #242526;
+}
+#option-bar button{
+   height: 25px;
+   padding: 0;
+   margin-left: 20px;
+}
+.round{
+    background-color: #3a3b3c;
+    width: 41px;
+    height: 41px; 
+    padding:0px;
+    border-radius: 300px;
+
+}
+.my-card {
+    background-color: #3a3b3c;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    height: 50%; 
+    
+}
+.my-card h5{
+    color: #4392f1;
+    font-size: 16px;
+}
+#card_details{
+  margin: 0;
+  padding: 0;
+  padding-top: 7px;
+}
+
+.title{
+    margin-top: 7px;
+}
+.title h4{
+    margin: 0;
+    height: 23px;
+    color: #fdfffc;
+}
